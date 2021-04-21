@@ -6,5 +6,24 @@
     "terminal-image": "^1.2.1",
     "terminal-link": "^3.0.0",
     "yargs": "^16.2.0"
-  }
+  },
+  "name": "josue1npxcard",
+  "description": "This is my first npx card.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "josue",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josue-U/npx-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josue-U/npx-card/issues"
+  },
+  "homepage": "https://github.com/Josue-U/npx-card#readme"
 }
