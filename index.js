@@ -11,7 +11,7 @@ const terminalImage = require("terminal-image");
 })();
 
 const data = {
-  name: chalk.yellow("------------------Josué Ulliana------------------"),
+  name: chalk.yellow("------------------ Josué Ulliana ------------------"),
   npm: chalk.cyan("https://www.npmjs.com/package/@josue-u"),
   github: chalk.cyan("https://github.com/Josue-U/npx-card"),
   linkTest: chalk.cyan("https://giphy.com/gifs/BxWTWalKTUAdq"),
