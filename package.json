@@ -11,7 +11,9 @@
   "description": "This is my first npx card.",
   "version": "1.0.0",
   "main": "index.js",
-  "bin": "josue",
+  "bin": {
+    "josue":"index.js"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
