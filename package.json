@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "lnk": "^1.1.0",
+    "meow": "^9.0.0",
+    "terminal-image": "^1.2.1",
+    "terminal-link": "^3.0.0",
+    "yargs": "^16.2.0"
+  }
+}
